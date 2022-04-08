@@ -8,7 +8,7 @@
 - 📫 You may reach me through **nicolas.verbois@student.uclouvain.be**
 - 😄 Pronouns: He/Him
 - 💬 I speak French, English and a bit of Dutch
-- ⚡ Fun fact **Victor Hugo’s book "Les Miserables" contains a sentence that is 823 words long**
+- ⚡ Fun fact : *Victor Hugo’s book "Les Miserables" contains a sentence that is 823 words long**
 
 <details>
 <summary>Favorite Tech and Tools</summary>
